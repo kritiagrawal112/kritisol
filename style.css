@@ -1,0 +1,134 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 6, 2017, 12:25:09 PM
+    Author     : kritiagarwal
+*/
+body
+{   
+    margin:50px;
+    
+}
+#header
+{
+   padding: 10px;
+}
+#background
+{
+    
+    background-image: url("./img/bat_cover.jpg");
+    color: #fff;
+    height: 350px;
+}
+#backgroundcenter
+{
+    background-color: rgba(0,0,0,0.5);
+    
+    max-width: 40%;
+    position: relative;
+    top: 120px;
+    
+    text-align: center;
+    padding: 30px;
+}
+.list_box
+{
+    width: 100%;
+    overflow: hidden;
+}
+.left
+{
+    float:left;
+    width: 50%;
+}
+
+
+#identity
+{
+    
+    overflow: hidden;
+}
+
+.image
+{
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+table
+{
+    border: 1px solid;
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th
+{
+    border: 1.5px solid;
+    text-align: center;
+    height: 30px;
+    padding: 10px;
+}
+th
+{
+    text-align: left;
+    background-color: #ececec;
+}
+#movies
+{
+    overflow: hidden;
+}
+.head
+{
+    display: inline-block;
+    padding: 10px;
+    
+    height: auto;
+    width: 30%;
+    text-align: center;
+}
+nav
+{
+    list-style-type: none;
+    overflow: hidden;
+}
+li a
+{
+    text-decoration: none;
+    padding-top:15px; 
+    padding-right: 15px;
+    display: block;
+    color: #666;
+    float: right;
+}
+#header
+{
+    border-bottom: 1px solid black;
+   margin-bottom: 10px;
+   color: #403F3F;
+   text-align: center;
+}
+.logo
+{
+    float:left;
+    
+}
+input[type"text"]
+{
+    
+}
+input[type="submit"]
+{
+    padding: 15px 35px;
+    color: white;
+    background-color: black;
+}
+footer
+{
+ border-top: 1px solid;
+ padding: 5px;
+}
+footer p{
+    text-align: center;
+}
